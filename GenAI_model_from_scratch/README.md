@@ -3,7 +3,7 @@
 A deep learning system that automatically generates detailed medical reports from chest X-ray images, enhanced with advanced natural language capabilities via Google's Gemini 2.0 Flash API.
 
 ![Demo of CXR Report Generation](demo/d.png)
-![Demo of CXR Report Generation](demo/d1.png)
+![Demo 2 of CXR Report Generation](demo/d1.png)
 ## Features
 
 - **Automatic Report Generation**: Convert chest X-ray images into comprehensive text reports
