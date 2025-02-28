@@ -1,0 +1,26 @@
+# Core ML/DL libraries
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.22.0
+
+# Async support
+nest_asyncio>=1.5.6
+
+# Image processing
+Pillow>=9.3.0
+
+# Data visualization
+matplotlib>=3.6.0
+
+# Web application
+streamlit>=1.28.0
+
+# PDF generation
+fpdf>=1.7.2
+
+# Google Gemini API
+google-generativeai>=0.3.0
+
+# Jupyter (optional, for training notebook)
+jupyter>=1.0.0
+ipykernel>=6.0.0
