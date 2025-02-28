@@ -81,7 +81,8 @@ The model was trained using the process detailed in `training.ipynb`, which incl
 ├── test_images/              # Sample X-ray images for testing
 │   ├── pn.jpeg
 │   └── post.png
-└── training.ipynb            # Jupyter notebook for model training
+├── training.ipynb            # Jupyter notebook for model training
+└── Hugging_Face_Implementation.ipynb
 ```
 
 ## Technical Details
